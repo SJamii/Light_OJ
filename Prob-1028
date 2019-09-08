@@ -47,7 +47,7 @@ int main()
                 n/=save[i];
                 c++;
             }
-            //sq=sqrt(n);
+            sq=sqrt(n);
             c++;
             res*=c;
         }
